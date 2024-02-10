@@ -1,6 +1,6 @@
 package utils;
 
-public class DataBaseUtil {
+public class testNeslihan {
 
     public static void connection(){
 
